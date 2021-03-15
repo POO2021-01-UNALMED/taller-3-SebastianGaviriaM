@@ -89,4 +89,14 @@ public class TV {
 		 return estado;
 	 }
 	 
+	 public static int getNumTV() {
+		 return numTV;
+	 }
+
+	public static void setNumTV(int i) {
+		numTV = i;	
+	}
+
+
+	 
 }
